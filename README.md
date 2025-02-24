@@ -82,13 +82,10 @@ while True:
 ```
 ## OUPUT  
 ## LED BLINK:
-![Screenshot 2025-02-24 113645](https://github.com/user-attachments/assets/b5202ebc-855e-4206-898a-87d6f89146a3)
 
 ## LED TOGGLE:
-![Screenshot 2025-02-24 104526](https://github.com/user-attachments/assets/b6587cbc-4c7a-4c81-bf97-5dcd1c726cc6)
 
 ## LED WITH BUZZER:
-![image](https://github.com/user-attachments/assets/02000313-b0e9-471e-9024-c5347bf66187)
 
  
 ## RESULTS
